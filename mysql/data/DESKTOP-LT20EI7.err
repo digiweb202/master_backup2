@@ -1,0 +1,32 @@
+2023-11-30 11:27:49 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 7584
+2023-11-30 11:27:49 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-11-30 11:27:49 0 [Note] InnoDB: Uses event mutexes
+2023-11-30 11:27:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-11-30 11:27:49 0 [Note] InnoDB: Number of pools: 1
+2023-11-30 11:27:49 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-11-30 11:27:49 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2023-11-30 11:27:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-30 11:27:49 0 [ERROR] InnoDB: Missing MLOG_CHECKPOINT at 135873174 between the checkpoint 135873174 and the end 135873165.
+2023-11-30 11:27:49 0 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-11-30 11:27:49 0 [Note] InnoDB: Starting shutdown...
+2023-11-30 11:27:49 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-11-30 11:27:49 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-11-30 11:27:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-30 11:27:49 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-11-30 11:27:49 0 [ERROR] Aborting
+2023-11-30 11:27:54 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 3012
+2023-11-30 11:27:54 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-11-30 11:27:54 0 [Note] InnoDB: Uses event mutexes
+2023-11-30 11:27:54 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-11-30 11:27:54 0 [Note] InnoDB: Number of pools: 1
+2023-11-30 11:27:54 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-11-30 11:27:54 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2023-11-30 11:27:54 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-30 11:27:54 0 [ERROR] InnoDB: Missing MLOG_CHECKPOINT at 135873174 between the checkpoint 135873174 and the end 135873165.
+2023-11-30 11:27:54 0 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-11-30 11:27:55 0 [Note] InnoDB: Starting shutdown...
+2023-11-30 11:27:55 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-11-30 11:27:55 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-11-30 11:27:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-30 11:27:55 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-11-30 11:27:55 0 [ERROR] Aborting
